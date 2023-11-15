@@ -1,4 +1,4 @@
-## Next13 Sopping Card Job Task
+## Next13 Sopping Card
 
 ### Uses Technology
 - Next13 (**APP Router**)
