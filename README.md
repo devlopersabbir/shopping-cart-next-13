@@ -7,5 +7,5 @@
 - Recoil (**State Management**)
 
 
-- Chakra-ui (**UI Library**)
+- TailwindCss (**UI Library**)
 - Next Auth (**Authentecation**)
